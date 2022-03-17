@@ -1,0 +1,11 @@
+black
+dash
+dash-table
+datetime
+flake8
+gunicorn
+numpy
+pandas
+pre-commit
+qpython
+virtualenv
